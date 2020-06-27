@@ -1,0 +1,14 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = fsubal
+	email = fsubal1102@gmail.com
+[url "git@github.com:"]
+	pushInsteadOf = git://github.com/
+[alias]
+	co = checkout
+	st = status
+  cm = commit
+	pl = pull
+	ps = push
+	unstage = reset HEAD
