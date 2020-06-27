@@ -1,0 +1,58 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "editor.fontFamily": "FiraCode-Regular,Menlo",
+    "editor.fontSize": 11,
+    "emmet.syntaxProfiles": {
+        "html": {
+            "self_closing_tag": false
+        }
+    },
+    "emmet.includeLanguages": {
+        "tpl": "html",
+        "vue-html": "html",
+        "vue": "html",
+        "smarty": "html",
+        "twig": "html"
+    },
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Monokai",
+    "files.associations": {
+        "*.haml": "haml",
+        "*.js": "javascriptreact",
+        "*.liquid": "yaml",
+        ".firebaserc": "jsonc",
+        "*.axlsx": "ruby"
+    },
+    //-------- Remote VSCode configuration --------
+    // Port number to use for connection.
+    "remote.port": 52698,
+    // Launch the server on start up.
+    "remote.onstartup": true,
+    "terminal.external.osxExec": "iTerm.app",
+    "typescript.check.npmIsInstalled": false,
+    "files.insertFinalNewline": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "prettier.disableLanguages": [
+        "php"
+    ],
+    "php.validate.executablePath": "/usr/local/opt/php70/bin/php",
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "window.zoomLevel": -1,
+    "[sql]": {},
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "git.confirmSync": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontLigatures": true,
+    "terminal.integrated.rendererType": "dom",
+    "editor.formatOnSave": true,
+    "editor.suggestSelection": "first",
+    "emmet.showSuggestionsAsSnippets": true,
+    "vsonline.authentication.accountProvider": "Microsoft",
+    "vsonline.accountProvider": "Microsoft",
+    "codespaces.accountProvider": "Microsoft"
+}
