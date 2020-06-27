@@ -8,7 +8,7 @@
 [alias]
 	co = checkout
 	st = status
-  cm = commit
+	cm = commit
 	pl = pull
 	ps = push
 	unstage = reset HEAD
