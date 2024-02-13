@@ -12,3 +12,4 @@
 	pl = pull
 	ps = push
 	unstage = reset HEAD
+	uncommit = reset --soft HEAD^
