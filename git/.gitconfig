@@ -13,3 +13,5 @@
 	ps = push
 	unstage = reset HEAD
 	uncommit = reset --soft HEAD^
+	sw = switch
+	conf = config --list --show-origin
