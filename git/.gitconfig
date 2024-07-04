@@ -2,7 +2,7 @@
 [user]
 # Please adapt and uncomment the following lines:
 	name = fsubal
-	email = fsubal1102@gmail.com
+	email = subal@pixiv.co.jp
 [url "git@github.com:"]
 	pushInsteadOf = git://github.com/
 [alias]
@@ -15,3 +15,7 @@
 	uncommit = reset --soft HEAD^
 	sw = switch
 	conf = config --list --show-origin
+
+[core]
+	editor = code --wait
+	quotepath = false
