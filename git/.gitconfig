@@ -15,6 +15,7 @@
 	uncommit = reset --soft HEAD^
 	sw = switch
 	conf = config --list --show-origin
+	where = config --list --show-origin
 
 [core]
 	editor = code --wait
